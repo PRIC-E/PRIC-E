@@ -1,45 +1,17 @@
-                                                                          ,z$$$$$$$c,
-                                                                        c$$$$$$$$$$$$$$c,
-                                                                      ,$$$$$$$$$$$$$$$$$$$c,
-                                                                     d$$$$$$$$$$$$$$$$$$$$$$$bc
-                                         ,,cccc,,                   $$$$$$$$$$$$$$$$$$$$$$$$$$$$c
-                                      ,$$$$$$$$$$$$b               J$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$b
-                                     ,$$$$$$$$$$$$$$$b,            $$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$,
-                                    d$$$$$$$$$$$$$$$$$$$$b        <$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$b
-                                   ,$$$$$$$$$$$$$$$$$$$$$$$c      <$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$b
-                                 ,>$$$$$$$$$$$$$$$$$$$$$$$$$$c    <$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$,
-                                 < $$$$$$$$$$$$$$$$$$$$$$$$$$$$c  `$$$$$$$$$$$$$$$$??????$$$$$$$$$$$$$$b
-                                <! $$$$$$$$$$$$$$$$$$$$$$$$$$$$$$c $$$$$$$$$$$$F',cddd' __`"$$$$$$$$$$$$
-                                !! $$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$ $$$$$$$$$$".$" ,,$$$$$$$$b ?$$$$$$$$$
-                               !!!<$$$$$$$$$$$$???????$$$$$$$$$$$$>`$$$$$$$$'$$$$$$$$$$$$$??$$c`$$$$$$$$
-      a voice heard            !!! $$$$$$$$P",zd$$$$h==,"?$$$$$$$$$,?$$$$$$F<$$$$$F' `?$$'   ?$$c`$$$$$$
-                               !!!>`$$$$$",$P'  "$$$ ,,_)$c ?$$$$$$$ ?$$$$$F<$$$$$,    $$     ?$$$,?$$$F
-                               `!!! $$$$>,$$$_,$$???$$' `"$$$,"$$$$$  $$$$$F<$$$$$b     $$    <$$$$b $$'
-                                !!!>`$$$b`$$$$$$F   `?,    "$$$bc,"? !`$$$$F`$$$$$$c,   $$$c,,d$$$$$$,'
-                                 !!!,`$$$$ ?$$$$$,    `$,   ,$$$$$$h !! ?$$$ $$$$$$$$$$$$$$$$$$$$$$$$$$
-                               <><!!!,?$$$$,?$$$$$$,  ,)$$$$$$$$$$$$h`!! $$$,?$$$$$$$$$$$$$$$$??$$$$$$$h
-                               !! !!!!,?$$$$b`$$$$$$$$$$$$$$$$$$$$$$$>`!!,"$$ ?$$$$$$$$$$$"      `$$$$$$
-                              ;!!!`!!!! ?$$$$b`?$$$$$$$$$$$$$P"   `$$$ `!!> ?$,"?$$$$$$$$$      ,c$$$$$F
-                              !!!!!,`!!!;`$$$$$b`$$$$$$$$$P"    ,c$$$$   `!!;`"?b`"$$$$$$$b,  ,$$$$$$$$'
-                              `!!!!!> `!!!;,"?$$$,?$$$$$$"    z$$$$$P      `!!!;`"?c,`?$$$$$$$$$$$$$P"
-                                <!!!!!!!!!!!!;,`?$$,"$$$$$,_z$$$$$"           `````-`"?c`?$$$$$PF""
-                                 `!!!!!!!!!!!!!!!;;`"=-`"""""""'                           "$$b
-                                      `'''``````    ,c$$$P                                  3$$$$c
-                                                  ,$$$$$$                                   $$$$$$$c
-                                                 d$$$$$$P                                   $$$$$$$$F
+## THEFT & LICENSING
 
+![](https://img.shields.io/badge/Code%20Editor-Visual%20Studio%20Code-lightgray?logo=visual-studio-code&style=for-the-badge)
 
+![](https://shields.io/badge/Operating%20System-Windows%2011-lightgray?logo=Windows&logoColor=white&style=for-the-badge)
 
-<p align="center">  
-</p>
-<p align="center"> 
-    ﹒
-    ﹒
-    <a href="https://github.com/t5w?tab=repositories">repos</a>
-    ﹒
-    ﹒
-</p>
-<img src="https://komarev.com/ghpvc/?username=t5w&color=grey" alt="views" width="" height="">
+![](https://shields.io/badge/Typescript-lightgray?logo=typescript&logoColor=white&style=for-the-badge) ![](https://shields.io/badge/Javascript-F7DF1E?logo=javascript&logoColor=black&style=for-the-badge)
+
+![Metrics](https://metrics.lecoq.io/THEF-T?template=classic&config.timezone=Europe%2FFrankfurt)
+
+```https://github.com/THEF-T/github-name-generator```
+
+```https://github.com/THEF-T/password-generator```
+<img src="https://komarev.com/ghpvc/?username=THEF-T&color=grey" alt="views" width="" height="">
 </p>
 
 <p align="center">  
