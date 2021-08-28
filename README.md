@@ -11,6 +11,8 @@
 ```https://github.com/THEF-T/github-name-generator```
 
 ```https://github.com/THEF-T/password-generator```
+
+<p>
 <img src="https://komarev.com/ghpvc/?username=THEF-T&color=grey" alt="views" width="" height="">
 </p>
 
