@@ -6,14 +6,14 @@
 
 ![](https://shields.io/badge/Typescript-lightgray?logo=typescript&logoColor=white&style=for-the-badge) ![](https://shields.io/badge/Javascript-F7DF1E?logo=javascript&logoColor=black&style=for-the-badge)
 
-![Metrics](https://metrics.lecoq.io/THEF-T?template=classic&config.timezone=Europe%2FFrankfurt)
+![Metrics](https://metrics.lecoq.io/LICENS-E?template=classic&config.timezone=Europe%2FFrankfurt)
 
-```https://github.com/THEF-T/github-name-generator```
+```https://github.com/LICENS-E/github-name-generator```
 
-```https://github.com/THEF-T/password-generator```
+```https://github.com/LICENS-E/password-generator```
 
 <p>
-<img src="https://komarev.com/ghpvc/?username=THEF-T&color=grey" alt="views" width="" height="">
+<img src="https://komarev.com/ghpvc/?username=LICENS-E&color=grey" alt="views" width="" height="">
 </p>
 
 <p align="center">  
